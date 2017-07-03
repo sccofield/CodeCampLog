@@ -12,9 +12,19 @@
 - Did some stuffs on javascript free code camp.
 
 ### Saturday July 1st 2017
-- Still learnt much more about javascripts loop using for loop and while loop
+- learnt javascript loops and conditional statements on freecodecamp.
 
 
 ### Sunday July 2nd 2017
-- Watched some javascript refresher courses.
+- Refresher course on javascript variables and datatypes.
+- built a simple javascript stalker.
+- built a age calculator with js.
 
+### Monday July 3rd 2017
+- Learnt how to use javascript to manipulate html form values.
+- Learnt that a preventDefault() could be used to prevent the default submission of a form.
+- Learnt how to use an addEventListner() to attach an event handler to a form.
+- Learnt about the date().
+- Learnt how to link jquery and how to use it simplify javascript
+- Learnt how to select id classes and element using javascript using $('')
+- Did touch typing home keys
