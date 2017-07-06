@@ -28,3 +28,15 @@
 - Learnt how to link jquery and how to use it simplify javascript
 - Learnt how to select id classes and element using javascript using $('')
 - Did touch typing home keys
+
+### Tuesday July 4th 2017
+- worked on some problem set using the while loop
+- learnt about the foreach function which is used to loop through values in a an array.
+- learnt how to use innerHTML to add content to existing content using the +=
+
+### Wednesday July 5th 2017
+- Learnt about flex row.
+- Leant that clearInterval is used to stop the process after using setInterval
+- Learnt that you could write a function to format how u want your output to appear.
+- Understood more about coersion
+- Understood more about using bracket notation for objects.
