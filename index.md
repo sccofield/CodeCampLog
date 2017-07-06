@@ -40,3 +40,9 @@
 - Learnt that you could write a function to format how u want your output to appear.
 - Understood more about coersion
 - Understood more about using bracket notation for objects.
+
+### Thursday July 6th 2017
+- Learnt some new javascript functions such as split() and join.
+- Leant about regular expresions and how it is used.
+- Understood the difference between function declaration and function expression.
+- Understood how scope works in javascript.
