@@ -42,7 +42,15 @@
 - Understood more about using bracket notation for objects.
 
 ### Thursday July 6th 2017
-- Learnt some new javascript functions such as split() and join.
+- Learnt some new javascript functions such as split() and join().
 - Leant about regular expresions and how it is used.
 - Understood the difference between function declaration and function expression.
 - Understood how scope works in javascript.
+
+### Friday July 7th 2017
+- Learnt more about how to use regular expresions. Tried using to replace the vowels in a string using .match function
+- Learnt how to use array reduce to reduce the elements in an array into a single entity
+- watched a video on scope and understood that where you declare a variable determines the scope that it is in.
+- Leant about more functions like slice and understand that it can't work for strings cos strings are immutable.
+
+
