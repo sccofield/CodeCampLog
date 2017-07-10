@@ -53,4 +53,18 @@
 - watched a video on scope and understood that where you declare a variable determines the scope that it is in.
 - Leant about more functions like slice and understand that it can't work for strings cos strings are immutable.
 
+### Saturday July 8th 2017
+- learnt how to build mobile app using react at the wecode meetup
+- learnt about higher order function and annonymous functions
+- continued work on repl.it and did mostly arguments.
 
+### Sunday July 9th 2017
+- spend the whole day working on repl.it
+- learned about objects and how to do object iterations.
+- learned how to use for in loop to loop through objects
+
+### Monday July 10th 2017
+- learnt about some new functions like fiter
+- learnt how to use regular expresions as a variable
+- learnt about the for of loop
+- Got a clearer picture of how object works
