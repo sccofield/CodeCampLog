@@ -68,3 +68,10 @@
 - learnt how to use regular expresions as a variable
 - learnt about the for of loop
 - Got a clearer picture of how object works
+
+### Tuesday July 11th 2017
+- learnt about node and npm
+- learnt about client and server.
+- learnt about the module.export and the require function for importing function from another file to my project.
+- learnt how to install packages from nom into my node project
+
