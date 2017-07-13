@@ -79,5 +79,15 @@
 - Started creating a todo app. we were able to do the layout and the css style and some jquerry manipulation
 - learnt how to manipulate the dom using jquerry when i hover a mouse on it
 - concentrated more time to finishing up repl.it
-- applied the knowloedge of more javascript functions
+- applied the knowledge of more javascript functions
+
+### Thursday July 13th 2017
+- continued with the todo app and added some event functionality to the dom.
+- learnt about string literals
+- learnt about some jquery functions like append, click, change etc
+- learnt how to replace the content of a div tag with jQuery
+- learnt how to use arrays to store data
+
+
+
 
