@@ -75,3 +75,9 @@
 - learnt about the module.export and the require function for importing function from another file to my project.
 - learnt how to install packages from nom into my node project
 
+### Wednesday July 12th 2017
+- Started creating a todo app. we were able to do the layout and the css style and some jquerry manipulation
+- learnt how to manipulate the dom using jquerry when i hover a mouse on it
+- concentrated more time to finishing up repl.it
+- applied the knowloedge of more javascript functions
+
