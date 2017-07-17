@@ -88,6 +88,25 @@
 - learnt how to replace the content of a div tag with jQuery
 - learnt how to use arrays to store data
 
+### Firday July 14th 2017
+- Continued with the todo app
+- used logic to seperate the states of the app
+- added an active cursor color to each tab of the todo app to allow for better UX
+
+### Saturday July 15th 2017
+- Started learning ES6
+- learnt about using rest and const for declaring variables
+- also learnt about syntatic sugar syntac for writing functions.
+
+### Sunday July 16th 2017
+- Continued learning ES6
+- learnt about the rest operator
+- also learnt about destructuring assignment which is a special syntax for neatly assigning values taken directly from an object to variables.
+
+
+
+
+
 
 
 
