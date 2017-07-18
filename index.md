@@ -103,6 +103,14 @@
 - learnt about the rest operator
 - also learnt about destructuring assignment which is a special syntax for neatly assigning values taken directly from an object to variables.
 
+### Monday July 17th 2017
+- ported my todo app to be using node.
+- learnt how to install express and use it in a node project
+- learnt how to app.get and app.use for routing with express.
+- learnt some new Es6 syntax
+
+
+
 
 
 
