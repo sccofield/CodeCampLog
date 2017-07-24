@@ -109,6 +109,39 @@
 - learnt how to app.get and app.use for routing with express.
 - learnt some new Es6 syntax
 
+### Tuesday July 18th 2017
+- continued working on the todo app
+- moved all the server functionality from the front end of the todo app to the server side
+- used the body parser to retrieve data sent from the client
+
+### Wednesday July 19th 2017
+- conitinued learning ES6 syntax and callback functions
+
+### Thursday July 20th 2017
+- Redid my todo app to be sure i understood every aspect of it. especially the backend
+- did a simple school app with ionic creator
+
+### Friday July 21st 2017
+- Started a course on node to be able to understand it better
+
+### Saturday July 22nd 2017
+- continued working on node. 
+- Did a file system request with node and learnt how to route for request that we dont want
+- spent some time solving some plain native javascript problems
+
+### Sunday July 23th 2017
+- worked on express and understood why it facilitates the implementation of node.
+
+### Monday July 24th 2017
+- learnt about express middleware and understood how to use it.
+- did some examples using express.
+
+
+
+
+
+
+
 
 
 
