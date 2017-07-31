@@ -136,6 +136,43 @@
 - learnt about express middleware and understood how to use it.
 - did some examples using express.
 
+### Tuesday July 25th 2017
+- started a forum app using express.
+- learnt about ejs and how to use it to write javascript with html files.
+- learnt about using app.set to set the type of view engine we want to use and the views folder.
+- learnt how to use render to render the views folder.
+- learnt how to pass variables through our routes to be used in our application.
+
+### Wednesday July 26th 2017
+- learnt how to use express generator to quickly generate aplication files in express.
+- express command comes default with jade template but u can change it by specifying the view template to use in your commmand 'express --view=ejs myapp'
+
+### Thursday july 27th 2017
+- continued learning about express
+- middleware in express is any number of functions that is invoked by express.js routing layer before the final request handler is made.
+
+### Friday july 28th 2017
+- learnt about mongodb
+- mongodb uses document instead of tables
+- mongodb is nosql or non relational database
+- its major advantages include, easy schema iteration, scalibility and performance, object oriented.
+-  A document is a record in a mongodb collection and the basic unit of data in mongodb. documents look like json but exist as bson.
+- in bson, there are quotation marks around both the key and value pairs
+- A collection is a grouping mongodb documents. typically, all documents in a collection have a similar or related purpose.
+- learnt how to insert, update, remove and create a new key in a mongodb object
+- learnt how to querry mongodb
+
+
+### Saturday july 29th 2017
+- learning about mongoose and schemma
+- to define a mongoose schema, you must first declare the Schema 'var Schema =  mongoose.Schema'
+- exprting a mongoose schema  module.exports = moongose.model('file name', 'name of schema')
+- learnt about datatypes that can be created in mongodb
+- body parsers allow us to grab elements from the front end as well as parameters within our url
+
+### Sunday july 29th 2017
+- Continued learning on mongoose and schema
+- Started work on my new portfolio page that i intend to make public soon. it will be done with node and express and will have a working contact form using nodemailer.
 
 
 
