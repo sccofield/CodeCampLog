@@ -174,6 +174,24 @@
 - Continued learning on mongoose and schema
 - Started work on my new portfolio page that i intend to make public soon. it will be done with node and express and will have a working contact form using nodemailer.
 
+### Monday july 30th 2017
+- did a crude app to learn how to add, update, and delete documents from mongodb using mongoose.
+- learnt about the find , findOneAndUpdate, findOneAndRemoved and the create methods in mongoose
+
+### Thursday August 10th 2017
+- Went back to learning the basics of node.
+- built a node note app using the command line to write to a file system.
+- was able to make us of yargs and fs module in node.
+- The app is able to write to a file, read the file, list all the notes in the file and delete a particular file.
+- saw how to convert JSON to strings using stingnify and how to parse it back to JSON
+
+### Friday August 31th 2017
+- Started another node project which is to be a weather app.
+- Used the request module in NPM to send request to an API
+
+
+
+
 
 
 
