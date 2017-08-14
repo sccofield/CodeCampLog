@@ -185,9 +185,20 @@
 - The app is able to write to a file, read the file, list all the notes in the file and delete a particular file.
 - saw how to convert JSON to strings using stingnify and how to parse it back to JSON
 
-### Friday August 31th 2017
+### Friday August 11th 2017
 - Started another node project which is to be a weather app.
 - Used the request module in NPM to send request to an API
+- Started javascript30 and built a drum kit web app
+
+### Saturday August 12th 2017
+- learnt about progressive web app from the wecode event
+- did another project in javascript 30 which was to build a javascript concept in which i explore the date object, and some of his methods such as getSeconds, etc. Also used set interval and rotate to to move the hands of the clocks around.
+
+### Sunday August 13th 2017
+- Worked on a simple website for a friend using bootstrap then hosted it online.
+- Added a contact form using php mail function and integrated a payment link using vogue pay.
+
+
 
 
 
