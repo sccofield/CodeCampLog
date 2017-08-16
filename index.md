@@ -198,6 +198,18 @@
 - Worked on a simple website for a friend using bootstrap then hosted it online.
 - Added a contact form using php mail function and integrated a payment link using vogue pay.
 
+### Monday August 14th 2017
+- worked on a command line weather app using yargs.
+- learned how to make request and call back using the Request module.
+- Also learnt about using Axios for making request.
+
+### Tuesday August 15th 2017
+- Did another weather app using express.
+- used Axios to make my request to both the google api and weather api.
+- Learnt how to host an app on heroku for free.
+- Hosted the weather app online 
+
+
 
 
 
